@@ -1,5 +1,5 @@
 {
-  "name": "jk-steps",
+  "name": "jkoo-steps",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "gitHead": "70fb5d9aa8f2dbb3a82078679304ff89210d097e"
 }

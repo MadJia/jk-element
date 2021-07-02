@@ -1,5 +1,5 @@
 {
-  "name": "jk-button",
+  "name": "jkoo-button",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "70fb5d9aa8f2dbb3a82078679304ff89210d097e"
 }
