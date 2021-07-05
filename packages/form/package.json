@@ -1,5 +1,5 @@
 {
-  "name": "jkoo-form23",
+  "name": "jkoo-form",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "470aa2c573da4729e6d3efb0f7ec633a7691c9a5"
+  "gitHead": "0b357a9a83adcc686be58b1b3ac4755303fd2116"
 }
