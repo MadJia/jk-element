@@ -1,6 +1,6 @@
 {
   "name": "jkoo-link",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "jkoo-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
